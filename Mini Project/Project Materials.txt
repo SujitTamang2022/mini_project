@@ -1,0 +1,16 @@
+Materials Required for the Project with their price:
+
+1. Arduino Mega  - Rs2000
+2. Motor Driver L298  - Rs350
+3. US Sensor - Rs180
+4. IR Sensor(4) - Rs95*4= Rs380
+5. Jumper Wire (100) - Rs5*100 = Rs500
+6. LDR(5) - Rs15*5 = Rs75
+7. 4 Wheel Set - Rs1300
+8. BreadBoard(Big) - Rs160
+9. Rechargeable Battery(8) - Rs780*4 = Rs3120
+10. Battery Charger - Rs780
+11. Servo Motor(3) - Rs230*3 = Rs690
+12. Resistor -  Rs
+
+Total: Rs9535
